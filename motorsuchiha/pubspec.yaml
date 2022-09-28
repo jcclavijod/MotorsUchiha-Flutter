@@ -1,0 +1,50 @@
+name: motorsuchiha
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase: ^7.3.2
+  cloud_firestore: ^0.14.0+2
+  http: ^0.12.2
+  firebase_auth: ^0.18.0+1
+  firebase_core: ^0.5.0
+  image_picker: ^0.6.7+12
+  firebase_storage: ^4.0.1
+  cupertino_icons: ^0.1.3
+  uuid: ^2.2.2
+  carousel_pro: ^1.0.0
+  badges: ^1.1.1
+  provider: ^4.3.2
+  flutter_material_pickers: ^1.7.2
+  fancy_dialog: ^1.0.4
+  get: ^3.21.2
+  flutter_launcher_icons: ^0.8.1  
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/uchiha.jpg"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/

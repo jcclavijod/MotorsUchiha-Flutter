@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414284215757",
+    "firebase_url": "https://motorsuchiha.firebaseio.com",
+    "project_id": "motorsuchiha",
+    "storage_bucket": "motorsuchiha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414284215757:android:e288d331e4c712d6458084",
+        "android_client_info": {
+          "package_name": "com.example.motorsuchiha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414284215757-kj76edmnmvn15hl1hlj5e164uc3n4r6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motorsuchiha",
+            "certificate_hash": "b7e2b828403816b014eea84979bede385fb5abd3"
+          }
+        },
+        {
+          "client_id": "414284215757-37u576h2d9kuja7a0tlv2uorb8omsp9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMA2EsjpDZKcYKcBoR4pVhWRASxID1Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414284215757-37u576h2d9kuja7a0tlv2uorb8omsp9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
